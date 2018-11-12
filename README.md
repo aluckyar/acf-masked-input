@@ -4,8 +4,8 @@ Adds Masked input to ACF.
 
 ## Links
 
-* jquery.mask.js[https://github.com/igorescobar/jQuery-Mask-Plugin] by Igor Escobar[https://github.com/igorescobar]
-* Advanced Custom Fields[https://www.advancedcustomfields.com/] by Elliot Condon[https://github.com/elliotcondon]
+* [jquery.mask.js](https://github.com/igorescobar/jQuery-Mask-Plugin) by [Igor Escobar](https://github.com/igorescobar)
+* [Advanced Custom Fields](https://www.advancedcustomfields.com/) by [Elliot Condon](https://github.com/elliotcondon)
 
 ## Compatibility
 
@@ -15,8 +15,8 @@ This ACF field type is compatible with:
 ## Installation 
 
 1. Copy the `acf-masked-input` folder into your `wp-content/plugins` folder
-2. Activate the International Telephone Input plugin via the plugins admin page
-3. Create a new field via ACF and select the International Telephone Input type
+2. Activate the ACF Masked Input plugin via the plugins admin page
+3. Create a new field via ACF and select the ACF Masked Input type
 4. Read the description above for usage instructions
 
 ## Changelog
